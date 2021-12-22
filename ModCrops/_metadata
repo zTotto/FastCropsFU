@@ -1,0 +1,11 @@
+{
+  "author" : "zTotto",
+  "description" : "Fast crop growth for Frackin Universe. This mod doesn't replace FU files, so if FU developers update some files this will still work.",
+  "friendlyName" : "Fast Crops FU",
+  "includes" : ["FrackinUniverse"],
+  "link" : "steam://url/CommunityFilePage/2376602792",
+  "name" : "Fast Crops for FU",
+  "steamContentId" : "2376602792",
+  "tags" : "Food and Farming",
+  "version" : "1.21"
+}
