@@ -1,0 +1,12 @@
+[
+{
+        "op": "replace",
+        "path": "/input/1",
+        "value": { "count" : 1 }
+},
+{
+        "op": "replace",
+        "path": "/output/1",
+        "value": { "count" : 2 }
+}
+]
